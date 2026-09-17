@@ -58,6 +58,9 @@ tools directly.
   if it needs to run elsewhere, that's a fork, not a parameter.
 - Still nothing secret, and nothing work-specific. Examples inside a skill are
   invented. Real content stays in the vault or repo the skill operates on.
+- No snapshots of what a skill operates on — no inventories, vocabularies, file
+  listings or quoted prose lifted from the target. They go stale, and this repo
+  is public. A skill needing that detail reads it at runtime.
 
 ### Installing
 

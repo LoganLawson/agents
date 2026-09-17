@@ -185,7 +185,7 @@ Give him the list. He fills the holes. Rinse individual stages if needed.
 
 Draft `## Background (Detailed Context)` from the pack material that never made the narrative — org context, system context, decisions made, alternatives rejected, constraints, retro observations, what's still unresolved.
 
-**Bullets only.** Nest `###` subsections when it's long, as `STAR - Digital Gym Incident Simulation.md` does.
+**Bullets only.** Nest `###` subsections when it's long — the longer entries in the vault do this; open one to see the shape.
 
 This section exists so the scenario can be reconstructed years later. Be generous with it.
 
@@ -210,7 +210,7 @@ Both, every time:
 1. **`STAR One-Pager 2026.md`** — append a `### [[STAR - Title|Short Name]]` block plus the one-paragraph compression. Format in `reference/style.md`.
 2. **`START journal.md`** — add a bullet under `## STAR examples (2026 review)`.
 
-Then **resync**: that list has drifted behind the one-pager. Check every `STAR - *.md` in the vault appears in it; add any that are missing. As of writing, four were absent — Test Data Strategy, Digital Gym Incident Simulation, Māori Leadership Summit, Giving My Boss Listening Feedback.
+Then **resync**: this list drifts behind the one-pager. Glob `STAR - *.md` in the vault, check each appears, add any that are missing. Do this every run rather than trusting a remembered state.
 
 ## 3g. Close
 

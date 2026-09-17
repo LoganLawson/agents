@@ -44,11 +44,11 @@ tag-three
 
 Notes:
 
-- Backlink line is markdown with percent-encoded spaces, not wikilinks — matches every existing entry.
+- Backlink line is markdown with percent-encoded spaces, not wikilinks — match whatever the existing entries use.
 - The `---` before Background appears in the full-spec entries. Keep it.
 - Tags are newline-separated, not comma-separated, not a bullet list.
 - S/T/A/R together land around 200–300 words. Tomorrow and Background sit outside that.
-- The `# Title` H1 used by the June 2026 compact entries is **not** part of this template — the exec summary opens the document.
+- Some older entries open with a `# Title` H1 and omit Tomorrow and Tags. That is a superseded format — do not copy it. The exec summary opens the document.
 
 ### Skeleton on first stage commit
 
@@ -128,4 +128,4 @@ Under `## STAR examples (2026 review)`:
 - [[STAR - <Title>]]
 ```
 
-Use the alias form `- [[STAR - <Title>|<Short Name>]]` only when the filename is unwieldy, as the CI/CD entry does.
+Use the alias form `- [[STAR - <Title>|<Short Name>]]` only when the filename is unwieldy.
