@@ -49,6 +49,7 @@ tools directly.
 | --- | --- | --- |
 | [start-journal](skills/start-journal/) | Claude Code | Build a START (STAR + Tomorrow) journal entry in the Obsidian vault, through context capture, per-stage rinse, and consolidation. |
 | [confluence](skills/confluence/) | Claude Code | Read Confluence Cloud pages through the official Atlassian CLI (`acli`), starting from a page URL. |
+| [jira](skills/jira/) | Claude Code | Work with Jira Cloud through the official Atlassian CLI (`acli`): authentication, JQL search, and work item operations. |
 
 ### Conventions
 
