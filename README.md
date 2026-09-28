@@ -48,6 +48,7 @@ tools directly.
 | Skill | Tool | Purpose |
 | --- | --- | --- |
 | [start-journal](skills/start-journal/) | Claude Code | Build a START (STAR + Tomorrow) journal entry in the Obsidian vault, through context capture, per-stage rinse, and consolidation. |
+| [confluence](skills/confluence/) | Claude Code | Read Confluence Cloud pages through the official Atlassian CLI (`acli`), starting from a page URL. |
 
 ### Conventions
 
@@ -68,7 +69,7 @@ Symlink into the tool's skill directory rather than copying, so the repo stays
 the only copy:
 
 ```sh
-ln -s ~/code/agents/skills/start-journal \
+ln -s ~/Documents/agents/skills/start-journal \
       /path/to/project/.claude/skills/start-journal
 ```
 
